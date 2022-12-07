@@ -7,5 +7,8 @@ public class Main {
         System.out.println(12
 
         );
+        System.out.println(2
+
+        );
     }
 }
